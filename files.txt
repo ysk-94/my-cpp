@@ -1,0 +1,14 @@
+all.h
+all.h.gch
+ba
+bmi
+c1
+conv
+conved.txt
+files.txt
+hello
+or
+r
+result.txt
+siki
+tan
